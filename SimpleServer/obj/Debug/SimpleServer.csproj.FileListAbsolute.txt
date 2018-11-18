@@ -1,0 +1,8 @@
+C:\Users\kjh3864\Desktop\서버\SimpleServer\SimpleServer\bin\Debug\SimpleServer.exe
+C:\Users\kjh3864\Desktop\서버\SimpleServer\SimpleServer\bin\Debug\SimpleServer.pdb
+C:\Users\kjh3864\Desktop\서버\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csprojResolveAssemblyReference.cache
+C:\Users\kjh3864\Desktop\서버\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csproj.CoreCompileInputs.cache
+C:\Users\kjh3864\Desktop\서버\SimpleServer\SimpleServer\obj\Debug\SimpleServer.exe
+C:\Users\kjh3864\Desktop\서버\SimpleServer\SimpleServer\obj\Debug\SimpleServer.pdb
+C:\Users\kjh3864\Desktop\서버\SimpleServer\SimpleServer\obj\Debug\SimpleServer.Properties.Resources.resources
+C:\Users\kjh3864\Desktop\서버\SimpleServer\SimpleServer\obj\Debug\SimpleServer.csproj.GenerateResource.Cache
