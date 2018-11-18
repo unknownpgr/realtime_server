@@ -1,9 +1,11 @@
 # realtime_server
 Server that detects file change and update automatically
 
+실행파일 위치 : /SimpleServer/SimpleServer/bin/Release/SimpleServer.exe
+
 ---
 
- 웹 개발을 위해서, 실시간으로 페이를 업데이트해주는 정적 웹서버. 웹페이지가 있는 디렉토리에 본 프로그램을 집어넣고 실행하면, 서버를 실행함. 자동으로 구글 크롬을 실행하며, 서버에 접속함.
+ 웹 개발을 위해서, 실시간으로 페이를 업데이트해주는 정적 웹서버. 웹페이지가 있는 디렉토리에 실행파일을 집어넣고 실행하면, 서버를 실행함. 자동으로 구글 크롬을 실행하며, 서버에 접속함.
 
 ---
 
